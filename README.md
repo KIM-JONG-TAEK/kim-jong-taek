@@ -8,7 +8,7 @@
 ├─▣ KIM JONGTAEK(Kerwin)
 ├─▣ Software Developer
 ├─▣ Republic of Korea, Seoul
-├─▣ With 4 years' computer science and technology education and 4 years' development working experience
+├─▣ With 4 years' computer science and technology education and 5 years' development working experience
 ├─▣ Interested in full stack
 │
 └───────────────────────────────▰▰▰
